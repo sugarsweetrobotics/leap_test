@@ -6,8 +6,6 @@ application:
   conf.Java: conf/rtc_java.conf
   conf.Python: conf/rtc_py.conf
   console_bind:
-  - C++
-  - Java
   - Python
   name: leap_test
   nameservers:
